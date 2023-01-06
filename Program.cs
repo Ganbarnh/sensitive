@@ -12,6 +12,8 @@ namespace ConsoleApp13
         {
 
             Console.WriteLine("Deyishiklik");
+
+            Console.WriteLine("Hello from dev");
         }
 
 
