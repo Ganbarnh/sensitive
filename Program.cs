@@ -10,6 +10,10 @@ namespace ConsoleApp13
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Deyishiklik");
         }
+
+
     }
 }
